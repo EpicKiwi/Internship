@@ -73,3 +73,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets
+Raw assets/**/*.fbx
+Raw assets/**/*.blend1
+Raw assets/**/*.blend2
+Raw assets/**/*.blend3
